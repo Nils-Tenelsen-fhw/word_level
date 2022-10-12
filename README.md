@@ -1,6 +1,6 @@
 Based on: https://github.com/enriqueav/lstm_lyrics
 
-Word-level text generation via an RNN
+Word-level text generation via an RNN implemented in Python using TensorFlow.
 
 A rough list of used libraries and versions can be found in the corresponding thesis.
 
